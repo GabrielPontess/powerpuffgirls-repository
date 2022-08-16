@@ -1,0 +1,150 @@
+.MeninasTitulo{
+
+}
+
+
+.SubTitle1{
+    transition: 1s;
+    cursor: pointer;
+}
+
+
+.SubTitle1:hover{
+    font-size: 150%;
+    color: red;
+    border-radius: 10px;
+}
+
+.SubTitle2{
+    transition: 1s;
+    cursor: pointer;
+}
+
+.SubTitle2:hover{
+    font-size: 150%;
+    color: blue;
+    border-radius: 10px;
+}
+
+.SubTitle3{
+    transition: 1s;
+    cursor: pointer;
+}
+
+.SubTitle3:hover{
+    font-size: 150%;
+    color: green;
+    border-radius: 10px;
+}
+
+.Meninas{
+    transition: 1s;
+    background-image: linear-gradient();
+    border-radius: 5px;
+}
+
+.Viloes{
+    transition: 0.5s;
+    border-radius: 5px;
+}
+
+.Florzinha{
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.Florzinha:hover{
+    scale: 1.1;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.Docinho{
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.Docinho:hover{
+    scale: 1.1;
+    background-color: green;
+    border-radius: 10px;
+}
+
+
+.Lindinha{
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.Lindinha:hover{
+    scale: 1.1;
+    background-color: blue;
+    border-radius: 10px;
+}
+
+
+.Macaco{
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.Macaco:hover{
+    cursor: pointer;
+    scale: 1.1;
+    background-color: rgb(104, 224, 104);
+    color: black;
+    border-radius: 10px;
+}
+
+.Ele{
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.Ele:hover{
+    cursor: pointer;
+    scale: 1.1;
+    background-color: rgb(170, 15, 15);
+    color: black;
+    border-radius: 10px;
+}
+
+.MaisGrana{
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.MaisGrana:hover{
+    cursor: pointer;
+    scale: 1.1;
+    background-color: rgb(255, 209, 92);
+    color: black;
+    border-radius: 10px;
+}
+
+.Sedusa{
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.Sedusa:hover{
+    cursor: pointer;
+    scale: 1.1;
+    background-color:blueviolet;
+    color: black;
+    border-radius: 10px;
+}
+
+.Desordeiros{
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.Desordeiros:hover{
+    cursor: pointer;
+    scale: 1.1;
+    background-color:rgb(255, 141, 35);
+    color: black;
+    border-radius: 10px;
+}
+
