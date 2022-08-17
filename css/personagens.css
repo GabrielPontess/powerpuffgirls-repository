@@ -1,8 +1,3 @@
-.MeninasTitulo{
-
-}
-
-
 .SubTitle1{
     transition: 1s;
     cursor: pointer;
@@ -41,11 +36,13 @@
     transition: 1s;
     background-image: linear-gradient();
     border-radius: 5px;
+    cursor: none;
 }
 
 .Viloes{
     transition: 0.5s;
     border-radius: 5px;
+    cursor: none;
 }
 
 .Florzinha{
@@ -125,6 +122,10 @@
 .Sedusa{
     cursor: pointer;
     transition: 0.5s;
+
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .Sedusa:hover{
@@ -138,6 +139,10 @@
 .Desordeiros{
     cursor: pointer;
     transition: 0.5s;
+
+    background-position:right;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .Desordeiros:hover{
@@ -146,5 +151,13 @@
     background-color:rgb(255, 141, 35);
     color: black;
     border-radius: 10px;
+}
+
+
+/* Background Configuração */
+.bC{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
